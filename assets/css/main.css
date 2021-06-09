@@ -7,6 +7,17 @@
 	Free for personal and commercial use under the CCA 3.0 license (html5up.net/license)
 */
 
+.devicon-plain {
+	height: 100px;
+	box-sizing: border-box;
+	margin: 8px;
+}
+
+.social-link {
+	color: white;
+	text-decoration: none;
+}
+
 html, body, div, span, applet, object,
 iframe, h1, h2, h3, h4, h5, h6, p, blockquote,
 pre, a, abbr, acronym, address, big, cite,
@@ -1919,6 +1930,7 @@ input, select, textarea {
 
 		.box.style1 {
 			padding: 3em 2em 3.5em 2em;
+			width: 500px;
 		}
 
 			.box.style1 h3 {
@@ -2036,7 +2048,7 @@ input, select, textarea {
 /* Nav */
 
 	#nav {
-		background-color: #282828;
+		background-color: #47460c;
 		text-align: center;
 		position: fixed;
 		left: 0;
