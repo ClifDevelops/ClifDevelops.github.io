@@ -1694,7 +1694,7 @@ input, select, textarea {
 		outline: 0;
 		cursor: pointer;
 		border-radius: 8px;
-		text-shadow: -1px -1px 0.5px rgba(0, 0, 0, 0.5);
+		/* text-shadow: -1px -1px 0.5px rgba(0, 0, 0, 0.5); */
 		overflow: hidden;
 		box-shadow: inset 0px 0px 0px 1px rgba(0, 0, 0, 0.5), inset 0px 2px 1px 0px rgba(255, 255, 255, 0.75);
 		background-color: #43B3E0;
@@ -2048,7 +2048,7 @@ input, select, textarea {
 /* Nav */
 
 	#nav {
-		background-color: #47460c;
+		background-color: #a1a042;
 		text-align: center;
 		position: fixed;
 		left: 0;
